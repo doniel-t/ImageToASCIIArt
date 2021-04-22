@@ -1,3 +1,5 @@
+# ImageToASCIIArt
+
 # Requires:
 * python
 * pip
@@ -6,4 +8,4 @@
 # How to Run:
 * run install.bat
 * py imgToAscii.py <path_to_img>
-* ascii image will be deposited in the out folder# ImageToASCIIArt
+* ascii image will be deposited in the out folder

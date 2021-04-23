@@ -1,3 +1,5 @@
+# ImageToASCIIArt
+
 # Requires:
 * python
 * pip

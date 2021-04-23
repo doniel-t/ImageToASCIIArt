@@ -11,7 +11,7 @@
 * ascii image will be deposited in the out folder# ImageToASCIIArt
 
 # Example
-* The picture used:
+* The picture used:\n
 ![Alt text](/assets/pepeCool.png)
 
 * Example output for res=400 (zoomed out in editor and screenshotted)

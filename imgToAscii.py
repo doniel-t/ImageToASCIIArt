@@ -4,7 +4,7 @@ import os
 import sys
 
 
-chars = [' ','@','#','0','X','$','&','O','Q','q','i','+','~','|','*','\'','.', ' ']
+chars = [' ','@','#','0','X','Q','i','+','~','|','*','\'','.', ' ']
 
 def getGrayScalePixels(img):
     pixels = list(img.getdata())
